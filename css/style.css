@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Lacquer&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Oleo+Script&display=swap');
+* {
+    margin : 0;
+    padding : 0;
+    }
+body {
+    background: url(../Images/Holidays.Halloween.Moon_.Night_.Cloudy-640x400.png) no-repeat;
+    background-position: center;
+    background-size: 2900px;
+    }
+h1 {
+    color: darkred;
+    text-align: center;
+    font-family: 'Oleo Script', cursive;
+    font-size: 350%;
+}
+h2 {
+    color: darkred;
+    text-align: left;
+    font-family: 'Oleo Script', cursive;
+}
+h3 {
+    color: darkred;
+    text-align: left;
+    font-family: 'Oleo Script', cursive;
+}
+.sidebar{
+    background-color: rgba(182, 179, 179, 0);
+    width:300px;
+    border: 15px rgba(44, 7, 7, 0.993);
+    padding: 50px;
+    margin: 20px;
+}
+.summary {
+    color: darkred;
+    text-align: left;
+}
+p {
+    color: darkgrey;
+    text-align: left;
+    font-family: 'Lacquer', sans-serif;
+}
+p{
+     background-color: rgba(182, 179, 179, 0);
+    width:300px;
+    border: 15px rgba(44, 7, 7, 0.993);
+    padding: 50px;
+    margin: 20px;
+}
+.sidebar {
+    text-align: left;
+    font-size: 15px;
+    font-family: Verdana, sans-serif;
+    color: #444;
+    border-style: solid;
+    border-color: red;
+}
+.sidebar ul li{
+    padding: 5px 8px;
+    border-bottom: 1px dashed #333;
+}
+.sidebar a:link, .sidebar a:active, .sidebar a:visited {color: #444;}
+.sidebar a:hover {color: #900};
