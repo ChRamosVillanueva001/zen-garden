@@ -41,13 +41,6 @@ p {
     text-align: left;
     font-family: 'Lacquer', sans-serif;
 }
-p{
-     background-color: rgba(182, 179, 179, 0);
-    width:300px;
-    border: 15px rgba(44, 7, 7, 0.993);
-    padding: 50px;
-    margin: 20px;
-}
 .sidebar {
     text-align: left;
     font-size: 15px;
